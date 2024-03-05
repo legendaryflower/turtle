@@ -1,6 +1,6 @@
 import { createApp } from 'vue'
-import 'style.css'
-import App from 'App.vue'
+import 'https://legendaryflower.github.io/turtle/src/style.css'
+import App from 'https://legendaryflower.github.io/turtle/src/App.vue'
 import { loadGame } from 'src/game/saveload'
 import { Quasar, Dark, Dialog } from 'quasar'
 
