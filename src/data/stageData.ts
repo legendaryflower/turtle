@@ -3,7 +3,7 @@ import { DecimalSource } from "break_eternity.js";
 export type StageEnemyData = [DecimalSource, DecimalSource];
 
 export const STAGE_DATA: Record<string, StageEnemyData[]> = {
-	"1":  [[1, 1], [1, 1], [1, 1]],
+	"1":  [[12, 1], [12, 1], [12, 1]],
 	"2":  [[1, 1], [1, 1], [2, 1], [1, 1], [1, 1]],
 	"3":  [[2, 1], [2, 1], [2, 1]],
 	"4":  [[1, 1], [2, 1], [3, 1], [1, 1]],
