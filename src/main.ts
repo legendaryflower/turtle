@@ -1,7 +1,7 @@
 import { createApp } from 'vue'
-import './style.css'
-import App from './App.vue'
-import { loadGame } from './game/saveload'
+import 'style.css'
+import App from 'App.vue'
+import { loadGame } from 'src/game/saveload'
 import { Quasar, Dark, Dialog } from 'quasar'
 
 import 'quasar/src/css/index.sass'
